@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "MONACO",
+  "base_artist": "Bad Bunny",
+  "createdAt": "2026-02-24T16:23:17.013648Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Le Ragazze Di Monaco",
+      "artist": "Antonello Venditti",
+      "has_synced": true,
+      "path": "select/01_Le_Ragazze_Di_Monaco_Antonello_Venditti.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Monaco",
+      "artist": "Makaya McCraven",
+      "has_synced": false,
+      "path": "select/02_Monaco_Makaya_McCraven.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Monaco",
+      "artist": "MKTO",
+      "has_synced": false,
+      "path": "select/03_Monaco_MKTO.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Going to Monaco",
+      "artist": "The Mountain Goats",
+      "has_synced": false,
+      "path": "select/04_Going_to_Monaco_The_Mountain_Goats.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Monaco",
+      "artist": "Bon Entendeur",
+      "has_synced": true,
+      "path": "select/05_Monaco_Bon_Entendeur.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Waters of Monaco",
+      "artist": "ZHU",
+      "has_synced": true,
+      "path": "select/06_Waters_of_Monaco_ZHU.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Monaco",
+      "artist": "Tipling Rock",
+      "has_synced": true,
+      "path": "select/07_Monaco_Tipling_Rock.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Monaco - Acoustic",
+      "artist": "Tipling Rock",
+      "has_synced": true,
+      "path": "select/08_Monaco_-_Acoustic_Tipling_Rock.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mónaco",
+      "artist": "LAGOS feat. Danny Ocean",
+      "has_synced": true,
+      "path": "select/09_Mónaco_LAGOS_feat._Danny_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mónaco",
+      "artist": "Lagos, Danny Ocean",
+      "has_synced": true,
+      "path": "select/10_Mónaco_Lagos,_Danny_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Breakfast in Monaco",
+      "artist": "Larry June feat. The Alchemist",
+      "has_synced": true,
+      "path": "select/11_Breakfast_in_Monaco_Larry_June_feat._The_Alchemist.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Breakfast in Monaco",
+      "artist": "Larry June",
+      "has_synced": true,
+      "path": "select/12_Breakfast_in_Monaco_Larry_June.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "MONACO",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/13_MONACO_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Il faut naître à Monaco",
+      "artist": "Joe Dassin",
+      "has_synced": true,
+      "path": "select/14_Il_faut_naître_à_Monaco_Joe_Dassin.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Il faut naître a monaco",
+      "artist": "Joe Dassin",
+      "has_synced": true,
+      "path": "select/15_Il_faut_naître_a_monaco_Joe_Dassin.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Die Fürstin von Monaco",
+      "artist": "BRDigung",
+      "has_synced": false,
+      "path": "select/16_Die_Fürstin_von_Monaco_BRDigung.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Mónaco",
+      "artist": "LAGOS, Danny Ocean",
+      "has_synced": true,
+      "path": "select/17_Mónaco_LAGOS,_Danny_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Le Ragazze Di Monaco",
+      "artist": "Antonello Venditti",
+      "has_synced": true,
+      "path": "select/18_Le_Ragazze_Di_Monaco_Antonello_Venditti.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MONACO",
+      "artist": "Bad Bunny",
+      "has_synced": false,
+      "path": "select/pl_01_MONACO_Bad_Bunny.txt"
+    }
+  ]
+}
